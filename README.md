@@ -1,33 +1,99 @@
-<h1 align="center">Hi 👋, I'm Arvind Batham</h1>
-<h3 align="center">Welcome to my profile</h3>
+<a href="https://komarev.com/ghpvc/?username=arvindbatham600">
+  <img align="right" src="https://komarev.com/ghpvc/?username=arvindbatham600&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
 
-- 💬 Ask me about **WebDev, JavaScript, C++**.
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://arvindbatham600.github.io/PortFolio/">Arvind Batham</a></b>
+        </samp>
+</h3>
 
-- 📫 How to reach me **arvindbatham600@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/arvindbatham/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Arvind Batham" height="20" width="30" /></a>
+<p align="center"> 
+  <samp>
+    <br>
+    「 I am a Full Stack Developer from <b>India</b> 」
+    <br>
+    <br>
+  </samp>
 </p>
 
-<h3 align="left"># Languages and Tools:</h3>
-<p align="left">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="http://ibthemespro.com/docs/beny/img/side-nav/cmm4.png" alt="react" width="40" height="40"/></a>
- <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://cdn.cdnlogo.com/logos/t/96/typescript.svg" alt="typescript" width="40" height="40" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://www.nsoftware.com/ui/img/platforms/nodejs.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/480/mongodb.png" alt="mongodb" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://pngimage.net/wp-content/uploads/2018/05/express-js-png-5.png" alt="express" width="40" height="40"/></a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4" alt="bootstrap" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="css3" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/html-512.png" alt="html5" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://www.freeiconspng.com/thumbs/c-logo-icon/c--logo-icon-0.png" alt="cplusplus" width="40" height="40"/></a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+<p align="center">
+ <a href="https://arvindbatham600.github.io/PortFolio/" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="arvind" />
+ </a>
+ <a href="https://www.linkedin.com/in/arvindbatham/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="arvind"/>
+ </a>
+ <a href="https://twitter.com/ArvindBatham13" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a
+
+</p>
+<br />
+
+<!-- About Section -->
+
+# About me
+
+<p>
+ <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+  
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ 📧 &emsp; Reach me anytime: arvindbatham600@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://arvindbatham600.github.io/PortFolio/)
+
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arvindbatham600&theme=monokai)
+<br/>
+<br/>
+<br/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=arvindbatham600&label=Profile%20views&color=0e75b6&style=flat" alt="arvindbatham600" /> </p>
+## Use To Code
+
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<br/>
+
+<p align="left">
+  <a href="https://github.com/arvindbatham600?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+
+<br/>
+<hr/>
+<br/>
+
+<p align="center">
+  <a href="https://github.com/arvindbatham600">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arvindbatham600&theme=radical&border=7F3FBF&background=0D1117" alt="Arvind's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/arvindbatham600">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arvindbatham600&theme=radical" alt="Arvind's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/arvindbatham600"><img alt="Arvind's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=arvindbatham600&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/arvindbatham600"><img alt="Arvind's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=arvindbatham600&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+![Arvind's Graph](https://github-readme-activity-graph.vercel.app/graph?username=arvindbatham600&custom_title=Arvind's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
